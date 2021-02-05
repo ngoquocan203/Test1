@@ -1,0 +1,35 @@
+body{
+	
+	padding: 0px;
+	margin:0px;
+}
+
+form{
+	border: 2px solid black;
+	margin:auto;
+	width: 600px;
+	padding: 20px;
+}
+.line{
+	padding-top: 20px;
+}
+
+#TD{
+	font-size: 20px;
+	padding-left:200px;
+}
+.left{
+	width: 300px;
+	float: left;
+}
+.right{
+	float: ;
+}
+#bt{
+	padding-left: 270px;
+}
+section{
+	height: 50px;
+	width: 400px;
+	border: 1px solid black;
+}
